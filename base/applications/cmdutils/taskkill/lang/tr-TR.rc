@@ -18,6 +18,6 @@ STRINGTABLE
     STRING_ENUM_FAILED, "Hata: İşlem numaralandırılamıyor.\n"
     STRING_TERMINATE_FAILED, "Hata: ""%1"" işlemi sonlandırılamıyor.\n"
     STRING_SELF_TERMINATION, "Hata: İşlemi kendi kendine sonlandırmaya izin verilmedi.\n"
-    STRING_PARAM_TOO_MUCH, "Hata: Geçersiz sözdizimi. '%1' seçeneğine '%2!d!'den fazla kez izin verilmiyor..\n"
+    STRING_PARAM_TOO_MUCH, "Hata: Geçersiz sözdizimi. '%1' seçeneğine '%2!d!'den fazla kez izin verilmiyor.\n"
     STRING_INVALID_SYNTAX, "Hata: Geçersiz sözdizimi.\n"
 }
